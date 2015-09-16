@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 不空索陀羅尼自在王經
+#+DATE: 2015-08-30 20:29:55.819618
+#+PROPERTY: JUAN 0
